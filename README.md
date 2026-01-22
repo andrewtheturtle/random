@@ -38,7 +38,7 @@ coffee-kg/
 
 ---
 
-## The GRAPH
+## The Graph
 
 The graph is structured around a central `BrewSession` node, which represents a single brewing event. This event connects the inputs (what you used) to the outputs (what you tasted).
 
