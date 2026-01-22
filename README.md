@@ -26,13 +26,15 @@ The graph makes it possible to ask questions like:
 
 ## Project structure
 
+```
 coffee-kg/
-├── brews.csv # Input data (brew log)
-├── build_coffee_kg.py # CSV → graph → HTML visualization
-├── query_coffee_kg.py # Generates subgraphs given a query << in progress >>
-├── coffee_kg.html # Generated interactive graph
-├── requirements.txt
-└── README.md
+├── brews.csv            # Input data (brew log)
+├── build_coffee_kg.py   # CSV → graph → HTML visualization
+├── query_coffee_kg.py   # Generates subgraphs given a query << in progress >>
+├── coffee_kg.html       # Generated interactive graph
+├── requirements.txt     # Project dependencies
+└── README.md            # This file
+```
 
 ---
 
